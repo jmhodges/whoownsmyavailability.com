@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title>Who Owns My Availability?</title>
+  <link href="http://whoownsmyavailability.com/atom.xml" rel="self" />
+  <link href="http://whoownsmyavailability.com/" />
+  <id>yesitsyou</id>
+  <updated>2011-04-21T08:41:00Z</updated>
+  <author>
+    <name>Jeff Hodges</name>
+    <email>jeff@somethingsimilar.com</email>
+  </author>
+  
+  <entry>
+    <title>YOU</title>
+    <link href="http://whoownsmyavailability.com/" />
+    <link rel="alternate" type="text/html" href="http://whoownsmyavailability.com"/>
+    <id>whenshitgotreal</id>
+    <updated>>2011-04-21T08:41:00Z</updated>
+    <summary>YOU</summary>
+  </entry>
+  
+</feed>
