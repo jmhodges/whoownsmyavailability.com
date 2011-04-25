@@ -22,6 +22,6 @@ var link = links[Math.floor(Math.random() * links.length)];
 
 linkTag.href = link.href;
 linkTag.appendChild(document.createTextNode(link.text));
-var p = document.createElement('p')
-p.appendChild(linkTag)
+var p = document.createElement('p');
+p.appendChild(linkTag);
 div.appendChild(p);
