@@ -16,12 +16,13 @@ var links = [
     "text": "How Complex Systems Fail: A WebOps Perspective"
   }
 ];
-var div = document.getElementById("footer");
+var footer = document.getElementById("footer");
+var p = document.createElement('p');
 var linkTag = document.createElement('a');
-var link = links[Math.floor(Math.random() * links.length)];
 
+var link = links[Math.floor(Math.random() * links.length)];
 linkTag.href = link.href;
 linkTag.appendChild(document.createTextNode(link.text));
-var p = document.createElement('p');
+
 p.appendChild(linkTag);
-div.appendChild(p);
+footer.appendChild(p);
