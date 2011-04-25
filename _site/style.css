@@ -24,13 +24,20 @@ h2 {
 }
 
 
-p {
+h3 {
     font-size: 30px;
     line-height:26px;
     font-family: Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/*----Links----------------------------------------------------- */
+h4 {
+    font-size: 20px;
+    font-weight: normal;
+    line-height:18px;
+    font-family: Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*----Links---------------------------------------------------- */
 
 a {
     text-decoration: none;
