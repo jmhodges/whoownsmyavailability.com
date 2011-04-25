@@ -51,7 +51,7 @@ a:visted {
 }
 
 a:hover {
-    color: #41209E;
+    color: #122A63;
 }
 
 /*----Primary-------------------------------------------------- */
@@ -76,4 +76,18 @@ a:hover {
     border-top-color: #999999;
     background: #E2E3DA;
 }
+
+#footer a {
+    color: #122A63;
+}
+
+#footer a:visted {
+    color: #122A63;
+}
+
+#footer a:hover {
+    color: #122A63;
+    text-decoration:underline;
+}
+
 
