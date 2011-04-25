@@ -17,12 +17,12 @@ var links = [
   }
 ];
 var footer = document.getElementById("footer");
-var h3 = document.createElement('h3');
+var h2 = document.createElement('h2');
 var linkTag = document.createElement('a');
 
 var link = links[Math.floor(Math.random() * links.length)];
 linkTag.href = link.href;
 linkTag.appendChild(document.createTextNode(link.text));
 
-h3.appendChild(linkTag);
-footer.appendChild(h3);
+h2.appendChild(linkTag);
+footer.appendChild(h2);
