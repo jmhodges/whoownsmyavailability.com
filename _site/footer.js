@@ -14,8 +14,21 @@ var links = [
   {
     "href": "http://www.kitchensoap.com/2009/11/12/how-complex-systems-fail-a-webops-perspective/",
     "text": "How Complex Systems Fail: A WebOps Perspective, by John Allspaw"
+  },
+  {
+    "href": "http://www.amazon.com/Human-Error-James-Reason/dp/0521314194",
+    "text": "Human Error, by James Reason"
+  },
+  {
+    "href": "http://www.namahn.com/resources/interview/erik-hollnagel-birds-do-it",
+    "text": "To Err Is Human: The ETTO Principle, by Erik Hollnagel"
+  },
+  {
+    "href": "http://www.amazon.com/Resilience-Engineering-Practice-Ashgate-Studies/dp/1409410358/",
+    "text": "Resilience Engineering in Practice, by Erik Hollnagel, Jean Pariès, David D. Woods and John Wreathal"
   }
 ];
+
 var footer = document.getElementById("footer");
 var h2 = document.createElement('h2');
 var linkTag = document.createElement('a');
