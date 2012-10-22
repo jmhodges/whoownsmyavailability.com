@@ -35,7 +35,7 @@ h3 {
 
 a {
     text-decoration: none;
-    color: red;
+    color: black;
 }
 
 a:visted {
@@ -44,7 +44,7 @@ a:visted {
 }
 
 a:hover {
-    color: red;
+    color: #275F9C;
 }
 
 /*----Primary-------------------------------------------------- */
@@ -70,15 +70,15 @@ a:hover {
 }
 
 #footer a {
-    color: black;
+    color: #275F9C;
 }
 
 #footer a:visted {
-    color: black;
+    color: #275F9C;
 }
 
 #footer a:hover {
-    color: black;
+    color: #275F9C;
     text-decoration:underline;
 }
 
