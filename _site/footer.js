@@ -25,7 +25,7 @@ var links = [
   },
   {
     "href": "http://www.amazon.com/Resilience-Engineering-Practice-Ashgate-Studies/dp/1409410358/",
-    "text": "Resilience Engineering in Practice, by Erik Hollnagel, Jean Paries, David D. Woods and John Wreathal"
+    "text": "Resilience Engineering in Practice, by Erik Hollnagel, Jean Pari\350s, David D. Woods and John Wreathal"
   }
 ];
 
