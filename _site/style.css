@@ -21,21 +21,21 @@ h1 {
 h2 {
     font-size: 30px;
     line-height:26px;
-    font-family: Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: normal;
     line-height:18px;
-    font-family: Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /*----Links---------------------------------------------------- */
 
 a {
     text-decoration: none;
-    color: black;
+    color: red;
 }
 
 a:visted {
@@ -44,7 +44,7 @@ a:visted {
 }
 
 a:hover {
-    color: #122A63;
+    color: red;
 }
 
 /*----Primary-------------------------------------------------- */
@@ -70,15 +70,15 @@ a:hover {
 }
 
 #footer a {
-    color: #122A63;
+    color: black;
 }
 
 #footer a:visted {
-    color: #122A63;
+    color: black;
 }
 
 #footer a:hover {
-    color: #122A63;
+    color: black;
     text-decoration:underline;
 }
 
