@@ -20,7 +20,7 @@ var links = [
     "text": "Human Error, by James Reason"
   },
   {
-    "href": "http://www.namahn.com/resources/interview/erik-hollnagel-birds-do-it",
+    "href": "http://www.namahn.com/we-share/interviews/erik-hollnagel-err-human-etto-principle",
     "text": "To Err Is Human: The ETTO Principle, by Erik Hollnagel"
   },
   {
